@@ -1,6 +1,7 @@
 import React from "react";
 import MenuItem from "./MenuItem";
 import Link from "next/link";
+import DarkModeSwitch from "./DarkModeSwitch";
 const Header = () => {
   return (
     <div>
@@ -9,7 +10,9 @@ const Header = () => {
           <MenuItem title="HOME" address="/" />
           <MenuItem title="About" address="/about" />
         </div>
-        <div>
+        <div className="flex space-x-5  items-center">
+          <DarkModeSwitch />
+
           <Link href="/">
             <h2 className="text-2xl mx-6">
               <span className="font-bold bg-amber-500 py-1 px-2 rounded-lg mr-1">
