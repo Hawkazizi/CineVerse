@@ -2,10 +2,9 @@
 import NavBar from "@/components/NavBar";
 import Providers from "./Providers";
 import "./globals.css";
-
 import Header from "@/components/Header";
 
-export default function RootLayout({ children }) {
+function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
@@ -22,3 +21,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+export default RootLayout;
