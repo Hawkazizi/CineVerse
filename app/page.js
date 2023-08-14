@@ -18,6 +18,8 @@ export default async function Home({ searchParams }) {
 
   const results = data.results;
 
+  const rrr = "https://api.themoviedb.org/3/";
+  console.log();
   return (
     <div>
       <Results results={results} />
