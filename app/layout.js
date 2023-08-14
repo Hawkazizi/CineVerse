@@ -1,4 +1,5 @@
 "use client";
+import NavBar from "@/components/NavBar";
 import Providers from "./Providers";
 import "./globals.css";
 
@@ -13,6 +14,7 @@ export default function RootLayout({ children }) {
           {/* Header */}
           <Header />
           {/* NavBar */}
+          <NavBar />
           {/* SearchBox */}
           {children}
         </Providers>
