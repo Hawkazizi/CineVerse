@@ -71,7 +71,6 @@ Stay connected as we continue to craft and refine the future of CineVerse!
 
 If you have any questions, suggestions, or just want to say hi, you can reach out to us at [hawk.azizi1@gmail.com] LinkedIn: (www.linkedin.com/in/hawkazizi). We're excited to connect with fellow movie enthusiasts and developers!
 
-Happy coding and immersive movie exploration!
 
 
 
