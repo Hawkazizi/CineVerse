@@ -71,7 +71,9 @@ Stay connected as we continue to craft and refine the future of CineVerse!
 
 If you have any questions, suggestions, or just want to say hi, you can reach out to us at [hawk.azizi1@gmail.com] LinkedIn: (www.linkedin.com/in/hawkazizi). We're excited to connect with fellow movie enthusiasts and developers!
 
+## 🙌 **Special Acknowledgment:**
 
+A big thank you to the creator of the base code for this project, Mr. Sahand Ghavidel. He's also a fantastic educator with great courses on Udemy that you should definitely check out for further learning!
+you should definitely check it out: 👇️
 
-
-
+https://www.udemy.com/user/sahand-ghavidel/
