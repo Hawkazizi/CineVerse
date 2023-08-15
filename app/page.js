@@ -17,9 +17,8 @@ export default async function Home({ searchParams }) {
   const data = await res.json();
 
   const results = data.results;
+  console.log(results);
 
-  const rrr = "https://api.themoviedb.org/3/";
-  console.log();
   return (
     <div>
       <Results results={results} />
