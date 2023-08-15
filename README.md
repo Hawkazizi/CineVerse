@@ -30,10 +30,8 @@ CineVerse is more than just a clone; it's a dynamic web application designed to 
 Explore some sneak peeks from the CineVerse experience:
 
 ![Homepage](screenshots/homepage.png)
-_Showcasing popular movies on the homepage._
 
 ![Movie Details](screenshots/movie-details.png)
-_Dive into detailed information about a selected movie._
 
 ## Getting Started
 
