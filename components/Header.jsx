@@ -12,13 +12,14 @@ const Header = () => {
         </div>
         <div className="flex space-x-5  items-center">
           <DarkModeSwitch />
+          <Link href="/SignIn"></Link>
 
           <Link href="/">
             <h2 className="text-2xl mx-6">
               <span className="font-bold bg-amber-500 py-1 px-2 rounded-lg mr-1">
-                IMDb
+                Cine
               </span>
-              <span className="text-xl">Clone</span>
+              <span className="text-xl">Verse</span>
             </h2>
           </Link>
         </div>
