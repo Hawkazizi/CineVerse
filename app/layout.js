@@ -4,6 +4,8 @@ import Providers from "./Providers";
 import "./globals.css";
 import Header from "@/components/Header";
 import SearchBox from "@/components/SearchBox";
+import { Analytics } from "@vercel/analytics/react";
+
 function RootLayout({ children }) {
   return (
     <html lang="en">
@@ -18,6 +20,7 @@ function RootLayout({ children }) {
           <SearchBox />
           {children}
         </Providers>
+        <Analytics />
       </body>
     </html>
   );
